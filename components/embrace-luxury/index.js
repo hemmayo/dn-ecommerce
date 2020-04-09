@@ -7,11 +7,11 @@ export default function EmbraceLuxury() {
         EMBRACE EVERYDAY LUXURY WITH OUR EXCLUSIVE PHONE ACCESSORIES
       </h1>
       <p class="text-sm">
-        iDeal of Sweden is a global fashion and lifestyle brand creating premium
+        DN Amsterdam is a global fashion and lifestyle brand creating premium
         phone accessories for your everyday.
         <br />
         <br />
-        By creating the perfect synthesis of fashion and tech, iDeal of Sweden
+        By creating the perfect synthesis of fashion and tech, DN Amsterdam
         stands for the little luxuries that make your everyday smooth and
         luxurious. From phone cases, phone wallets, charging cables, power banks
         to clutches and other fashion pieces, our designs are inspired by the
@@ -19,7 +19,7 @@ export default function EmbraceLuxury() {
         cutting-edge looks.
         <br />
         <br />
-        As one of the industry’s pioneers, iDeal of Sweden is known for its
+        As one of the industry’s pioneers, DN Amsterdam is known for its
         commitments to outstanding quality and high standards. By introducing
         innovative functions and new ways of thinking, the brand is continuously
         redesigning the mobile experience. We stand for premium fashion
