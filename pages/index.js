@@ -3,6 +3,7 @@ import Header from "../components/header";
 import Footer from "../components/footer";
 import SubscribeNewsletter from "../components/subscribe-newsletter";
 import ShopItem from "../components/shop-item";
+import ShopNowCTA from "../components/shop-now-cta";
 
 export default function HomePage() {
   return (
@@ -32,6 +33,28 @@ export default function HomePage() {
         <ShopItem />
         <ShopItem />
         <ShopItem />
+      </section>
+      <section className="flex px-20 py-10 items-center justify-between">
+        <ShopNowCTA
+          width="xl"
+          image="https://ideal-production.imgix.net/2020/03/13155033/Sale50_2160x2700.png?w=900&auto=format&fit=clip&fm=jpg"
+        />
+        <div className="flex">
+          <ShopItem />
+          <ShopItem />
+        </div>
+      </section>
+      <section className="flex flex-row-reverse px-20 py-10 items-center justify-between">
+        <ShopNowCTA
+          height="2xl"
+          width="full"
+          image=" https://ideal-production.imgix.net/2020/02/12093934/01_PortLaurentMarble_Fannyamandanilsson_1.png?w=1200&auto=format&fit=clip&fm=jpg"
+          title
+          description
+        />
+        <div className="flex">
+          <ShopItem />
+        </div>
       </section>
       <SubscribeNewsletter />
       <Footer />

@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
           <div></div>
         </div>
-        <div className="flex justify-between mt-16">
+        <div className="flex justify-between items-center mt-16">
           <div className="w-1/2 text-sm">
             <h3 className="uppercase font-medium mb-4">
               Accessories of Attraction
@@ -61,7 +61,9 @@ export default function Footer() {
               high standard as our prime key words.
             </p>
           </div>
-          <div></div>
+          <div>
+            <img src="/images/logo-light.png" className="w-20" />
+          </div>
         </div>
       </div>
       <div className="flex justify-between bg-primary-dark px-20 h-16 items-center">
