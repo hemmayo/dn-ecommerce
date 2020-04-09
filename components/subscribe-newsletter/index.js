@@ -25,7 +25,7 @@ export default function SubscribeNewsletter() {
         </p>
         <div>
           <input
-            className="bg-white max-w-md w-full outline-none border border-white px-6 py-4 mr-4"
+            className="bg-white max-w-md w-full outline-none border border-white px-6 py-4 mr-4 text-black"
             placeholder="Enter your email address"
           />
           <button className="text-base uppercase border border-white hover:bg-white hover:text-black py-4 w-40">

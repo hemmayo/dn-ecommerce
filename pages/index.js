@@ -4,6 +4,8 @@ import Footer from "../components/footer";
 import SubscribeNewsletter from "../components/subscribe-newsletter";
 import ShopItem from "../components/shop-item";
 import ShopNowCTA from "../components/shop-now-cta";
+import CollectionList from "../components/collection-list";
+import EmbraceLuxury from "../components/embrace-luxury";
 
 export default function HomePage() {
   return (
@@ -55,6 +57,12 @@ export default function HomePage() {
         <div className="flex">
           <ShopItem />
         </div>
+      </section>
+      <section className="flex px-20 py-10 mb-5">
+        <CollectionList />
+      </section>
+      <section className="flex px-20 py-10 mb-5">
+        <EmbraceLuxury />
       </section>
       <SubscribeNewsletter />
       <Footer />
