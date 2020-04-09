@@ -19,7 +19,7 @@ export default function Footer() {
               </div>
               <div className="text-sm">
                 <h3 className="uppercase font-semibold mb-4">
-                  About ideal of sweden
+                  About DN Amsterdam
                 </h3>
                 <div className="flex flex-col">
                   <span className="mb-2">About us</span>
@@ -48,7 +48,7 @@ export default function Footer() {
               Accessories of Attraction
             </h3>
             <p className="">
-              Deal of Sweden’s products are designed and developed in Sweden, a
+              DN Amsterdam’s products are designed and developed in Amsterdam, a
               pioneering country in both creativity and new thinking, and
               sustainable environmental aspects. We have developed a unique
               ecosystem of compatible magnetic products such as mobile cases,
